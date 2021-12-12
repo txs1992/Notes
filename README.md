@@ -5,11 +5,13 @@
 
 [0.序言](https://github.com/txs1992/Notes/blob/main/%E7%B2%BE%E8%AF%BB%E8%AF%84%E8%AE%BA/0.%E5%BA%8F%E8%A8%80.md)
 
-[1.读《如何阅读一本书 - 1》](https://github.com/txs1992/Notes/blob/main/%E7%B2%BE%E8%AF%BB%E8%AF%84%E8%AE%BA/1.%E8%AF%BB%E3%80%8A%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%20-%201%E3%80%8B.md)
+[1.《如何阅读一本书》第一篇](https://github.com/txs1992/Notes/blob/main/%E7%B2%BE%E8%AF%BB%E8%AF%84%E8%AE%BA/1.%E3%80%8A%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AF%87.md)
 
-[2.读《如何阅读一本书 - 2》](https://github.com/txs1992/Notes/blob/main/%E7%B2%BE%E8%AF%BB%E8%AF%84%E8%AE%BA/2.%E8%AF%BB%E3%80%8A%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%20-%202%E3%80%8B.md)
+[2.《如何阅读一本书》第二篇](https://github.com/txs1992/Notes/blob/main/%E7%B2%BE%E8%AF%BB%E8%AF%84%E8%AE%BA/2.%E3%80%8A%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%E3%80%8B%E7%AC%AC%E4%BA%8C%E7%AF%87.md)
 
-[3.读《如何阅读一本书 - 3》](https://github.com/txs1992/Notes/blob/main/%E7%B2%BE%E8%AF%BB%E8%AF%84%E8%AE%BA/3.%E8%AF%BB%E3%80%8A%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%20-%203%E3%80%8B.md)
+[3.《如何阅读一本书》第三篇](https://github.com/txs1992/Notes/blob/main/%E7%B2%BE%E8%AF%BB%E8%AF%84%E8%AE%BA/3.%E3%80%8A%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%E3%80%8B%E7%AC%AC%E4%B8%89%E7%AF%87.md)
+
+[4.《如何阅读一本书》第四篇](https://github.com/txs1992/Notes/blob/main/%E7%B2%BE%E8%AF%BB%E8%AF%84%E8%AE%BA/4.%E3%80%8A%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%E3%80%8B%E7%AC%AC%E5%9B%9B%E7%AF%87.md)
 
 
 ## 关注精读评论微信公众号
